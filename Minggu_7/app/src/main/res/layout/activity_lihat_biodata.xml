@@ -68,7 +68,7 @@
                 android:textSize="18dp"
                 android:textColor="#222831"
                 android:textStyle="bold"
-                android:text="Jenis Kelamin" />
+                android:text="Tanggal Lahir" />
 
             <TextView
                 android:id="@+id/textView3"
@@ -85,7 +85,7 @@
                 android:textSize="18dp"
                 android:textColor="#222831"
                 android:textStyle="bold"
-                android:text="Tanggal Lahir" />
+                android:text="Jenis Kelamin" />
 
             <TextView
                 android:id="@+id/textView4"
