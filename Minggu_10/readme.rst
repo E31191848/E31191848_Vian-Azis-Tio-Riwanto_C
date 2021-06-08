@@ -8,5 +8,6 @@ Opsional : Silahkan melakukan konfigurasi IP pada komputer anda untuk mengatur a
 2. Open project dan SYNC Gradle
 
 NB : 
+
 1. Jangan lupa mengubah ServerAPI.java sesuaikan link dengan direktori file web service
 2. Pada res/xml/network_security_config.xml ubah kode '<domain includeSubdomains="true">192.168.43.29</domain>' ganti '192.168.43.29' dengan IP Adress Kalian
